@@ -59,7 +59,7 @@ export const ServicesIcon = styled.img`
     width: 160px;
     margin-bottom:10px;
 `
-export const ServiceH1 = styled.h1`
+export const ServicesH1 = styled.h1`
     font-size: 2.5rem;
     color:#fff;
     margin-bottom: 64px;
