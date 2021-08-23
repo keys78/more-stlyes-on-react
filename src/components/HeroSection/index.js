@@ -17,13 +17,13 @@ const HeroSection = () => {
                 <VideoBg autoPlay loop muted src={video} type="video/mp4" />
             </HeroBg>
             <HeroContent>
-                <HeroH1>Virtual Banling Made Easy</HeroH1>
+                <HeroH1>Virtual Banking Made Easy</HeroH1>
                 <HeroP>
                     Sign up for a new account today and recieve $250 in
                     credit towards your nex payment.
                 </HeroP>
                 <HeroBtnWrapper>
-                    <Button to="/signup"
+                    <Button to="signup"
                         onMouseEnter={onHover}
                         onMouseLeave={onHover}
                         primary='true'

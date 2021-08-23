@@ -33,9 +33,6 @@ const InfoSection = ({lightBg, id, imgStart, img, topLine, lightText, headLine, 
                        <Column2>
                             <ImgWrap>
                                 <Img src={ img } alt={alt}/>
-                                {/* <img src='../../images/svg-1.svg' alt='fsdv' /> */}
-                                
-
                             </ImgWrap>
                        </Column2>
                    </InfoRow>
